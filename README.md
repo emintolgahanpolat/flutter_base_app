@@ -4,6 +4,7 @@
  - Provider
  - Dio
  - Dio interceptor
+ - Cached network image
  - Logger
  - MVVM
  - Naming Route
